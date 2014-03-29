@@ -1,0 +1,26 @@
+D:\GSoC\Hello_wold_gui\android\bin\classes.dex : \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\example\Hello_wold_gui\BuildConfig.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\example\Hello_wold_gui\R$array.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\example\Hello_wold_gui\R$attr.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\example\Hello_wold_gui\R$drawable.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\example\Hello_wold_gui\R$layout.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\example\Hello_wold_gui\R$string.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\example\Hello_wold_gui\R.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\ministro\IMinistro$Stub$Proxy.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\ministro\IMinistro$Stub.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\ministro\IMinistro.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\ministro\IMinistroCallback$Stub$Proxy.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\ministro\IMinistroCallback$Stub.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\ministro\IMinistroCallback.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\origo\QtActivity$1.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\origo\QtActivity$2.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\origo\QtActivity$3$1$1.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\origo\QtActivity$3$1.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\origo\QtActivity$3.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\origo\QtActivity$4.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\origo\QtActivity$5.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\origo\QtActivity$6.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\origo\QtActivity.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\origo\QtApplication$InvokeResult.class \
+D:\GSoC\Hello_wold_gui\android\bin\classes\org\kde\necessitas\origo\QtApplication.class \
+D:\GSoC\Hello_wold_gui\android\bin\dexedLibs\annotations-8148ede3ab08ea62beb66aea429e42ef.jar \
