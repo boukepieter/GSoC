@@ -13,11 +13,20 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        mainwindow.cpp
+        mainwindow.cpp \
+    savanne.cpp \
+    water.cpp \
+    hospital.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  += mainwindow.h \
+    savanne.h \
+    water.h \
+    hospital.h
 
-FORMS    += mainwindow.ui
+FORMS    += mainwindow.ui \
+    savanne.ui \
+    water.ui \
+    hospital.ui
 
 CONFIG += mobility
 MOBILITY = 

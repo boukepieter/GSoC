@@ -17,20 +17,85 @@
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>120</x>
-      <y>30</y>
-      <width>291</width>
+      <x>30</x>
+      <y>20</y>
+      <width>701</width>
       <height>41</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>14</pointsize>
+      <pointsize>11</pointsize>
      </font>
     </property>
     <property name="text">
-     <string>Hello World!</string>
+     <string>Choose kind of sample:</string>
     </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonForm">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>330</y>
+      <width>151</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Continue</string>
+    </property>
+   </widget>
+   <widget class="QGroupBox" name="groupBox">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>80</y>
+      <width>321</width>
+      <height>201</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string>Kind of Sample</string>
+    </property>
+    <widget class="QRadioButton" name="radioButtonHospital">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>120</y>
+       <width>281</width>
+       <height>61</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Hospital</string>
+     </property>
+    </widget>
+    <widget class="QRadioButton" name="radioButtonWater">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>70</y>
+       <width>261</width>
+       <height>51</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Water-Quality</string>
+     </property>
+    </widget>
+    <widget class="QRadioButton" name="radioButtonSavanne">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>10</y>
+       <width>281</width>
+       <height>61</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Savanne</string>
+     </property>
+    </widget>
    </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
@@ -46,5 +111,25 @@
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
  <resources/>
- <connections/>
+ <connections>
+  <connection>
+   <sender>pushButtonForm</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>PushButtonFormHandler()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>270</x>
+     <y>257</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>283</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>PushButtonFormHandler()</slot>
+ </slots>
 </ui>
